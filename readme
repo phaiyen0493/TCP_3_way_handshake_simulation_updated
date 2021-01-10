@@ -1,0 +1,10 @@
+Name: Yen Pham
+CS3530
+Assignment 3
+
+To compile all files: make
+Run server file on cse01.cse.unt.edu: ./server <server port number>
+Run client file on cse02.cse.unt.edu: ./client <server port number> <filename>
+
+(Run server before running client)
+To clean all unnescary files: make clean

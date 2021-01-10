@@ -1,0 +1,322 @@
+
+Client has succesfully sent SYN signal to request connection
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289383
+TCP ack number: 0
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 0
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 1
+TCP FIN bit value: 0
+TCP check sum in decimal: 1225 and hexadecimal: 4c9
+
+Client received SYN ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067150
+TCP ack number: 1804289384
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 1
+TCP FIN bit value: 0
+TCP check sum in decimal: 42859 and hexadecimal: a76b
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289384
+TCP ack number: 1616067151
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 57891 and hexadecimal: e223
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with theerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067151
+TCP ack number: 1804289512
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 58019 and hexadecimal: e2a3
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289512
+TCP ack number: 1616067152
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 20577 and hexadecimal: 5061
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server:  COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older peoerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067152
+TCP ack number: 1804289640
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 20705 and hexadecimal: 50e1
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289640
+TCP ack number: 1616067153
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 59571 and hexadecimal: e8b3
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: ple, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer aerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067153
+TCP ack number: 1804289768
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 59699 and hexadecimal: e933
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289768
+TCP ack number: 1616067154
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 45935 and hexadecimal: b36f
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: re more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067154
+TCP ack number: 1804289896
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 46063 and hexadecimal: b3ef
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804289896
+TCP ack number: 1616067155
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 116 and hexadecimal: 74
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: ID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or usingerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067155
+TCP ack number: 1804290024
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 244 and hexadecimal: f4
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804290024
+TCP ack number: 1616067156
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 57432 and hexadecimal: e058
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server:  an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva oerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067156
+TCP ack number: 1804290152
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 57560 and hexadecimal: e0d8
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804290152
+TCP ack number: 1616067157
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 5817 and hexadecimal: 16b9
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: r discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiqueerie
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067157
+TCP ack number: 1804290280
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 5945 and hexadecimal: 1739
+
+Server has sent SYN ACK signal to client succesfully
+TCP source port: 58262
+TCP destination port: 12345
+TCP sequence number: 1804290280
+TCP ack number: 1616067158
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 29714 and hexadecimal: 7412
+Text file: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it's important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+Data chunk sent to server: tte (for example, by coughing into a flexed elbow).
+
+Client received ACK signal from server
+TCP source port: 12345
+TCP destination port: 58262
+TCP sequence number: 1616067158
+TCP ack number: 1804290408
+TCP offset/ header length: 6
+TCP URG bit value: 0
+TCP ACK bit value: 1
+TCP PSH bit value: 0
+TCP RST bit value: 0
+TCP SYN bit value: 0
+TCP FIN bit value: 0
+TCP check sum in decimal: 29826 and hexadecimal: 7482
